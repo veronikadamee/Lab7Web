@@ -1,8 +1,8 @@
 # Lab7Web
 PHP
 
-###### Nama : Fara Deviana
-###### NIM : 312010407
+###### Nama : Veronika Rustianai Dame
+###### NIM : 312010325
 ###### Kelas : TI.A.2
 
 ## Tugas PHP
